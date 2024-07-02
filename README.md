@@ -4,7 +4,7 @@ Welcome to the Soccer Kit Management System repository. This project offers a da
 
 ## Files in this Repository
 
-- **Database_Report.pdf**: Detailed report outlining the rationale, analysis, and implementation of the Soccer Kit Management System.
+- `Database_Report.pdf`: Detailed report outlining the rationale, analysis, and implementation of the Soccer Kit Management System.
 - **ER Diagram.png**: Entity Relationship (ER) diagram illustrating the structure and relationships of database entities.
 - **Logical.png**: Logical model diagram depicting the database schema and entity relationships.
 - **Normalization2.xlsx**: Document detailing the normalization process applied to ensure data integrity and efficiency.
