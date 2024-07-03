@@ -5,11 +5,11 @@ Welcome to the Soccer Kit Management System repository. This project offers a da
 ## Files in this Repository
 
 - `Database_Report.pdf`: Detailed report outlining the rationale, analysis, and implementation of the Soccer Kit Management System.
-- **ER Diagram.png**: Entity Relationship (ER) diagram illustrating the structure and relationships of database entities.
-- **Logical.png**: Logical model diagram depicting the database schema and entity relationships.
-- **Normalization2.xlsx**: Document detailing the normalization process applied to ensure data integrity and efficiency.
-- **README.md**: This file; provides an overview of the repository and its contents.
-- **kit-DB&queries.sql**: SQL file containing Data Definition Language (DDL) and Data Manipulation Language (DML) statements for database creation, population, and queries.
+- `ER Diagram.png`: Entity Relationship (ER) diagram illustrating the structure and relationships of database entities.
+- `Logical.png`: Logical model diagram depicting the database schema and entity relationships.
+- `Normalization2.xlsx`: Document detailing the normalization process applied to ensure data integrity and efficiency.
+- `README.md`: This file; provides an overview of the repository and its contents.
+- `kit-DB&queries.sql`: SQL file containing Data Definition Language (DDL) and Data Manipulation Language (DML) statements for database creation, population, and queries.
 
 ## Project Overview
 
@@ -77,4 +77,4 @@ Measures implemented to ensure:
 
 The Soccer Kit Management System project aims to streamline operations and optimize resource allocation within football clubs. This repository provides comprehensive documentation and SQL scripts to understand and replicate the database system.
 
-For detailed insights, refer to the provided PDF report, diagrams, and SQL files.
+For detailed insights, refer to the provided PDF report, diagrams, and SQL script files.
